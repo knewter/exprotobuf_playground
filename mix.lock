@@ -1,0 +1,2 @@
+%{"exprotobuf": {:package, "0.4.0"},
+  "gpb": {:git, "git://github.com/tomas-abrahamsson/gpb.git", "eb09f71094e092152af2bbce2b3e2f16e15c6b4c", []}}
